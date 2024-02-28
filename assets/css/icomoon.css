@@ -24,68 +24,59 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-roof-9:before {
-  content: "\e92d";
-}
-.icon-shape:before {
-  content: "\e92c";
-}
-.icon-arrow-left-angle:before {
+.icon-alarm:before {
   content: "\e900";
 }
-.icon-arrow-right-angle:before {
+.icon-eletric:before {
   content: "\e901";
 }
-.icon-arrow-right-double:before {
+.icon-automation:before {
   content: "\e902";
 }
-.icon-arrow-up:before {
+.icon-camera-cctv:before {
   content: "\e903";
 }
-.icon-calendar:before {
+.icon-arrow-left-angle:before {
   content: "\e904";
 }
-.icon-calendar-1:before {
+.icon-arrow-right-angle:before {
   content: "\e905";
 }
-.icon-call:before {
+.icon-arrow-right-double:before {
   content: "\e906";
 }
-.icon-comma-double:before {
+.icon-arrow-up:before {
   content: "\e907";
 }
-.icon-dollar-tag:before {
+.icon-calendar-1:before {
   content: "\e908";
 }
-.icon-download:before {
+.icon-comma-double:before {
   content: "\e909";
 }
-.icon-email:before {
+.icon-dollar-tag:before {
   content: "\e90a";
 }
-.icon-engineer:before {
+.icon-download:before {
   content: "\e90b";
 }
-.icon-hammer:before {
+.icon-email:before {
   content: "\e90c";
 }
-.icon-help:before {
+.icon-engineer:before {
   content: "\e90d";
 }
-.icon-home:before {
+.icon-hammer:before {
   content: "\e90e";
 }
-.icon-home-1:before {
+.icon-help:before {
   content: "\e90f";
 }
-.icon-mail:before {
+.icon-home:before {
   content: "\e910";
 }
-.icon-map-pin:before {
+.icon-home-1:before {
   content: "\e911";
-}
-.icon-phone:before {
-  content: "\e912";
 }
 .icon-play:before {
   content: "\e913";
@@ -135,9 +126,6 @@
 .icon-search:before {
   content: "\e922";
 }
-.icon-search-1:before {
-  content: "\e923";
-}
 .icon-share:before {
   content: "\e924";
 }
@@ -156,21 +144,12 @@
 .icon-team-1:before {
   content: "\e929";
 }
-.icon-user-1:before {
-  content: "\e92a";
-}
 .icon-watch:before {
   content: "\e92b";
 }
-.icon-alarm:before {
-  content: "\e900";
+.icon-shape:before {
+  content: "\e92c";
 }
-.icon-eletric:before {
-  content: "\e901";
-}
-.icon-automation:before {
-  content: "\e902";
-}
-.icon-camera-cctv:before {
-  content: "\e903";
+.icon-roof-9:before {
+  content: "\e92d";
 }
