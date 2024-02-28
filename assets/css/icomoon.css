@@ -162,3 +162,15 @@
 .icon-watch:before {
   content: "\e92b";
 }
+.icon-alarm:before {
+  content: "\e900";
+}
+.icon-eletric:before {
+  content: "\e901";
+}
+.icon-automation:before {
+  content: "\e902";
+}
+.icon-camera-cctv:before {
+  content: "\e903";
+}
